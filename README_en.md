@@ -44,7 +44,7 @@ construction, providing themselves as a resource, spending their life and
 limited forces on protecting this filter-construct, more and more complicating
 it, building up new layers.
 
-The filter-construct is what is called the "I am" (hereinafter "i-filter").
+The filter-construct is what is called the "I" (hereinafter "i-filter").
 
 It is difficult and costly to transform the i-filter – both physically and
 psychologically. The only possibility to do this is to stop "feeding" the
