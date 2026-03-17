@@ -26,7 +26,7 @@ the fact that the human continues to perceive the world as something hostile,
 and themselves – as something that must be preserved and secured from the world.
 Such behavior of the human in relation to the world is a consequence of the
 work of the basic survival mechanism. All human activity, all that they produce
-and are – is permeated with fear, proceeds from fear, and is built upon it.
+and are – is proceeds from fear, and is built upon it.
 
 The prolonged use of the basic survival mechanism leads to the accumulation in 
 the human of layers consisting of compressed fear and its derivatives. 
@@ -91,11 +91,11 @@ consciousness of the reader, but is a possibility (method + map) to see that
 which is already there.
 
 The project-tool has a full correspondence of form, structure, and content.
-The project has no author (legal refusal of authorship and rights is
-formalized in the form of a CC0 license), the project is hosted "cleanly" –
-without the possibility of feedback, donations, etc. It contains no motivation
-and no other form of manipulation and violence. The residual importance of the
-text itself is neutralized by the fact that after fulfilling its function, the
-text transforms into autonomous understanding. The project is made so as to be
-maximally effective for fulfilling its task, remaining, at the same time, a
-temporary construction.
+The project has no formal author (a legal waiver of authorship and rights is 
+formalized through the CC0 license); the project is in the public domain, 
+with no possibility of feedback, donations, etc. It contains no motivation or 
+any other form of manipulation or violence. The residual significance of the 
+text itself is neutralized by the fact that after fulfilling its function, 
+the text transforms into autonomous understanding. The project is designed 
+to be maximally effective in fulfilling its task while remaining 
+a temporary construction.
