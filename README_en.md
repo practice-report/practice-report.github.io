@@ -48,16 +48,15 @@ The filter-construct is what is called the "I" (hereinafter "i-filter").
 
 It is difficult and costly to transform the i-filter – both physically and
 psychologically. The only possibility to do this is to stop "feeding" the
-filter-construct with oneself. Project Metamorphosis is a tool actively using
-such a possibility. Thus, the working hypothesis of the project is the
-possibility of transforming the i-filter into a different aggregate state.
+filter-construct with oneself. Project Metamorphosis is a tool actively using 
+this possibility to transform the i-filter into a different aggregate state.
 
-Verification of this hypothesis occurs individually. It can be proven or
-refuted in only one way – through experience. It is impossible to
-transfer this proof to another person through words – experience is not
-transmitted by words. However, by words can be transmitted the understanding
-about the very possibility of the metamorphosis of thinking, about the method
-and difficulties on the path of such transformation.
+Verification of the working hypothesis occurs individually. It can be proven or 
+refuted in only one way – through experience. It is impossible to transfer this 
+proof to another person through words – experience is not transmitted by words. 
+However, understanding about the very possibility of the metamorphosis of thinking, 
+about the method and difficulties on the path of such transformation, can be 
+transmitted by words.
 
 The project-tool has in its structure ways of bypassing traps and dead ends
 typical for self-investigation. However, this does not cancel the independence
@@ -78,11 +77,9 @@ the final result. These are stages, behind which there is always unexplored
 space. Stopping the investigation turns the entire traveled path into a dead
 end. The investigation continues as long as the researcher is alive.
 
-The project is written from the "other" side of the metamorphosis process, from
-where all mechanisms, the entire "map" are "visible". Otherwise the project-
-tool could not have been provided. The project is an immediate "imprint" of the
-process lying at its basis. This does not make the project "truth", but leaves
-it as a hypothesis, which requires no faith, but can be verified.
+The project is an immediate "imprint" of the process lying at its basis. 
+This does not make the project "truth", but leaves it as a hypothesis, 
+which requires no faith, but can be verified.
 
 Project Metamorphosis is an autonomous artifact. It "consists" of understanding.
 Understanding is not stored between words, but is located in the one who reads
